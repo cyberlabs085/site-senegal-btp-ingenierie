@@ -1,0 +1,43 @@
+<svg width="1520" height="440" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SENEGAL BTP &amp; INGÉNIERIE Lockup">
+  <title>SENEGAL BTP &amp; INGÉNIERIE — Official Lockup</title>
+  
+    <defs>
+      <linearGradient id="brandGrad_0vpzi6" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F59E0B"/>
+        <stop offset="50%" stop-color="#E63B2E"/>
+        <stop offset="100%" stop-color="#047857"/>
+      </linearGradient>
+      <linearGradient id="brandGrad_0vpzi6_accent" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+        <stop offset="100%" stop-color="#F59E0B"/>
+      </linearGradient>
+      <linearGradient id="brandGrad_0vpzi6_glow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#E63B2E" stop-opacity="0.8"/>
+        <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.2"/>
+      </linearGradient>
+    </defs>
+  
+  <rect width="760" height="220" fill="#07070A"/>
+  
+  <!-- Symbole centré optiquement à gauche -->
+  <g id="lockup-symbol" transform="translate(45, 35) scale(0.5859)">
+    
+        <path fill="url(#brandGrad_0vpzi6)" d="
+          M 186 78 C 176 54, 154 40, 128 40 C 90 40, 64 64, 64 96 C 64 124, 88 140, 120 148 L 138 152 C 162 158, 172 168, 172 182 C 172 198, 154 212, 128 212 C 98 212, 74 196, 66 172 L 40 184 C 52 218, 86 240, 128 240 C 174 240, 204 212, 204 180 C 204 148, 178 132, 144 124 L 126 120 C 104 114, 94 104, 94 92 C 94 78, 110 68, 128 68 C 148 68, 164 78, 172 94 Z
+        "/>
+      
+  </g>
+
+  <!-- Ligne de séparation subtile -->
+  <line x1="220" y1="55" x2="220" y2="165" stroke="#E63B2E" stroke-opacity="0.25" stroke-width="1.5" />
+
+  <!-- Typographie Wordmark -->
+  <text x="256" y="118" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="900" fill="#FAF8F5" letter-spacing="4">
+    SENEGAL BTP &amp; INGÉNIERIE
+  </text>
+
+  <!-- Slogan / Tagline -->
+  <text x="258" y="152" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" fill="#E63B2E" letter-spacing="5">
+    BÂTIR L&apos;HÉRITAGE AFRICAIN
+  </text>
+</svg>
